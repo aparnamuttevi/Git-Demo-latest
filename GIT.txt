@@ -1,0 +1,69 @@
+LINX 
+-----------
+1) what is LINUX ?
+2) Different Flavours of Linux
+3) Set up Linux machone in AWS EC2
+4) Install mobaxterm
+5) connect from locat to EC2 VM
+6) How to write SHELL scripts 
+7) Some basic LINUX commands (ls, pwd)
+8) new linux commadns
+9) This is new Line
+
+
+
+--------------------------------------------------------
+
+git 
+-------------
+
+Why it is needed 
+
+f1 f2 f3 ---------- today ----- v1
+
+f1' f2 f3 ------------ tomorrow----- v2
+
+f1'' f2' f3 --------------- day after
+
+-----------------------------
+
+git 
+----------
+version control system (VCS)
+
+roll back
+who has the change ------------- 
+
+
+10000
+
+88 ----------- error 
+-------------------------------------
+
+history of VCS 
+
+local vcs (local git)
+
+pros ---- can track the file / rollback 
+cons ---- if we loose the Disk everythig is gone
+
+
+----------------------------
+Centralized VCS
+
+Pros : Multiple people can contribute to the project by pull and push
+       We are not storing our code in local so if local system dies, we still have the project codes
+
+
+Cons: we cannot see the History of the projcet 
+
+
+
+------------------------
+
+Distributed VCS  (GIT)
+
+---------------------
+
+
+
