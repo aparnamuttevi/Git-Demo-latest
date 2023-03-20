@@ -1,4 +1,4 @@
-LINX 
+Linux is good
 -----------
 1) what is LINUX ?
 2) Different Flavours of Linux
